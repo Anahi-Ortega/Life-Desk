@@ -98,8 +98,6 @@ This project was built leveraging modern AI-assisted workflows:
 
 ## 🗺️ Roadmap
 
-- [ ] Webhook integrations for external notifications (Slack, Discord).
-- [ ] Export tickets and cycle journals to Markdown/CSV.
 - [ ] Custom user-defined recurrence formulas.
 
 ---
